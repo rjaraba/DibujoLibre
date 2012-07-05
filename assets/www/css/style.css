@@ -1,0 +1,8 @@
+.canvas {
+
+    -webkit-box-shadow:  2px 2px 5px 5px rgba(24, 56, A, 0.4);
+    box-shadow:  2px 2px 5px 5px rgba(24, 56, A, 0.4);
+    margin-left: 5px; 
+    margin-right:5px; 
+    margin-top: 5px;
+}
